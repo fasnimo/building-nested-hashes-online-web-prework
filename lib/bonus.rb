@@ -23,11 +23,11 @@ def bonus
   #code your solution here:
   epic_tragedy[:montague][:hero][:status] = "dead"
   
-  put epic_tragedy
+  puts epic_tragedy
   
   epic_tragedy[:capulet][:heroine][:status] = "dead"
   
-  put epic_tragedy
+  puts epic_tragedy
 
   
 
